@@ -5,50 +5,80 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
     color: #1c2021;
+    text-decoration: none;
   }
   body  {
       background-color: #c1c4c1;
-      color: #626a62;
+      
   }
   
-
-
-  /* The sidebar menu */
-.sidenav {
-  height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 225px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
-  left: 0;
-  background-color: #3b5738; 
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
+.topnav {
+  background-color: #3b5738;
+  height: fit-content;
+  width: 100%;
+  text-align: right;
+  padding-bottom: 5px;
+  padding-top: 3px;
+  padding-right: 5px;
+  padding-left: 5px;
+  word-spacing: 10px;
+  position: fixed;
+  top: 0;
 }
 
-/* The navigation menu links */
-.sidenav a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #664b;
-  display: block;
+#wbd {
+  margin-left: 20px;
+  margin-top: 12px;
+  background-color: #3b5738;
+  border-radius: 20px;
 }
 
-/* When you mouse over the navigation links, change their color */
-.sidenav a:hover {
-  color: #664b14;
+
+.top_main {
+  margin-top: 0px;
+  margin-left: 0px;
+  padding-top: 80px;
+  padding-left: 10px;
+  width: 100%;
+  height: fit-content;
+  
+  display: flex;
+  justify-content: inline;
 }
 
-/* Style page content */
-.main {
-  margin-left: 200px; /* Same as the width of the sidebar */
-  padding: 0px 100px;
-  color: #626a62;
+.mypic {
+
+  border-radius: 70px;
+  padding: 10px;
+  height: fit-content;
+  float: left;
+  
+
 }
 
-/* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
-@media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+/*  welcome text box */
+.welcome {
+  border: solid #1c2021;
+  padding: 10px;
+  width: 90%;
+  height: 100%;
+  
+  
+}
+/* latest projects */
+.bottom_main {
+  margin-top: 30px;
+  padding: 10px;
+  width: 90%;
+  height: 300px;
+  border: #1c2021;
+  border-width: 5px;
+  border-style: solid;
+}
+
+footer {
+  background-color: #3b5738;
+  height: fit-content;
+  margin-top: 60px;
+  padding: 5px;
 }
