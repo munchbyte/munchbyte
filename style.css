@@ -6,8 +6,10 @@
     font-family: "Poppins", sans-serif;
     color: #1c2021;
     text-decoration: none;
+  
   }
   body  {
+    
       background-color: #c1c4c1;
       
   }
@@ -42,8 +44,11 @@
   width: 100%;
   height: fit-content;
   
-  display: flex;
-  justify-content: inline;
+}
+
+#about {
+  padding: 10%;
+  margin-top: 85px;
 }
 
 .mypic {
@@ -65,20 +70,20 @@
   
   
 }
-/* latest projects */
+/* latest projects 
 .bottom_main {
   margin-top: 30px;
   padding: 10px;
   width: 90%;
   height: 300px;
   border: #1c2021;
-  border-width: 5px;
-  border-style: solid;
+  background-color: #e0e1e0;
+  border-radius: 60px;
 }
-
+*/
 footer {
   background-color: #3b5738;
-  height: fit-content;
+  height: 150px;
   margin-top: 60px;
   padding: 5px;
 }
