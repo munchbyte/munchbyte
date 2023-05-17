@@ -12,7 +12,7 @@ nav {
     width: 100%;
     height: fit-content;
     border: 0;
-    background-color: #495049;
+    background-color: #47622e;
     padding: 0px;
     padding-right: 25px;
     position: fixed;
@@ -23,7 +23,7 @@ nav {
 
 }
 .logobar {
-    background-color: #495049;
+    background-color: #47622e;
     height: 50px;
     display: flex;
     font-family: 'Geostar Fill', cursive;
@@ -37,7 +37,7 @@ nav {
     display: flex;
     justify-content: flex-end;
     flex-wrap: wrap;
-    background-color: #495049;
+    background-color: #47622e;
     width: 100%;
     height: fit-content;
     font-weight: bolder;
@@ -47,7 +47,7 @@ nav {
     border-radius: 5px;
     padding: 5px 10px 2px 10px;
     border: 0;
-    background-color: #495049;
+    background-color: #47622e;
     font-size: 15px;
     font-weight: bolder;
 
