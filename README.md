@@ -31,5 +31,18 @@ My alchemical process is guided by first principles derived from mentors like **
 If your team is stuck with tasks that drain morale, message me. Tell me the one job that keeps getting in the way and I’ll sketch out a workflow to solve it.
 
 ---
+
+### 📊 The Proof (Technical Receipts)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=munchbyte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munchbyte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+---
+**Status:** Monitoring for anomalies. 
+**Next Sync:** Continuous via GitHub Actions.
+
+---
 **Discover. Understand. Grow.**
 
