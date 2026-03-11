@@ -1,6 +1,35 @@
-Hi, my name is Adrian, but I go by the handle Munchbyte.  I'm an IT enthusiast with a deep interest in technology. I have dabbled in coding, creating webpages and newsletters, tinkering with and customizing my PC's operating system, and even building my own game using BASIC. Although I didn't consider it as a career when I was younger, my path has now taken me towards the world of IT. I'm starting this blog to aid my learning journey and share my experiences with others.
+# Adrian Stanton (Munchbyte)
+### Principal Architect | Founder, Attic Tech Solutions & GMN
 
-Web development continues to captivate me, and I'm expanding my knowledge beyond HTML by learning CSS and JavaScript. Additionally, I'm eager to explore cybersecurity, particularly pentesting. Game development has also piqued my interest. I have several other areas I'm keen to explore, such as OSINT, AI, machine learning, cloud computing, blockchain, and NFTs. Undoubtedly, there will be new and exciting things to learn in the future.
+> **"The fog does not lift by accident; it is cleared by the Receipt."**
 
-While cybersecurity and game development are my primary passions, I recognize the interconnectedness between various fields. The lines between them can sometimes blur, and I'm excited to delve into these overlapping domains. I'm committed to investing significant effort into cybersecurity and game development as I progress.
+I leverage the advanced, high-context capability and rapid orchestration capabilities of Claude Code to design and deploy production-grade AI agents and robust internal service applications. My engineering philosophy rejects "black-box" implementations; I focus on architecting transparent, deterministic systems where the underlying logic is always verifiably sound.
+
+My work specializes in transmuting operational friction into systemic assets for UK-based service businesses and SMEs. Every application and agent I engineer must produce "The Receipt"—a verifiable audit trail that protects human time, authorship, and sovereignty. I operate under the core law that understanding is the prerequisite for agency; therefore, I only build infrastructure where Diligence is Sovereignty.
+
+Most AI implementations fail because complexity outruns understanding. I move UK SMEs and founders from 'Black-Box' anxiety to operational clarity, transforming internal workflows into verifiably resilient assets. I do not sell spectacle; I build practical infrastructure that produces a verifiable **"Receipt"** for every action.
+
+## 🛠️ The Simulation Chamber
+
+My current engineering focus is pushing the boundaries of **rapid application development and sophisticated AI agent orchestration**.
+
+* **Tooling:** I leverage **Claude Code** as my primary development engine. Its deep context and reasoning capabilities allow me to move from architectural sketch to functional Version 1.0 prototype with unprecedented speed.
+* **Methodology:** I treat engineering bottlenecks as a detective mystery; Claude Code helps me find the 'truth' within the logic, stress-testing every variable until the system hits resonance.
+
+## 🚀 The Output (Services & Clients)
+
+I build 'Resonant Shields' for my clients—systems that protect human time, authorship, and sovereignty. My focus is on three key pillars:
+
+1.  **AI Operations Audits:** Conducting deep-dive investigations to identify hidden liabilities and time-leaks in existing infrastructure.
+2.  **Voice & Chat Agents:** Architecting bespoke agents (using tools like n8n/Python) that capture missed inquiries and remove the 'founder bottleneck' via intelligent internal knowledge bases.
+3.  **Application Development:** Rapidly prototyping and deploying functional tools for internal services, ensuring processes run without drama.
+
+## 🤝 Lineage of Strategy
+
+My alchemical process is guided by first principles derived from mentors like **Elon Musk** (logical rigor), **Chris Voss** (tactical empathy), and **Arnold Schwarzenegger** (discipline). This synthesis allows me to transmute operational chaos into a clear, verifiable, and sovereign path forward.
+
+If your team is stuck with tasks that drain morale, message me. Tell me the one job that keeps getting in the way and I’ll sketch out a workflow to solve it.
+
+---
+**Discover. Understand. Grow.**
 
